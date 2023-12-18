@@ -1,0 +1,17 @@
+.demo{
+    
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    text-transform: uppercase;
+    font-weight: 700;
+    background-color: teal;
+    color: aqua;
+}
+.vip{
+    text-align: center;
+    color: sandybrown;
+    box-shadow: 10px 10px 10px brown;
+}
